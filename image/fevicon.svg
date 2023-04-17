@@ -1,0 +1,39 @@
+<svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 8.467 8.467"
+          height="32"
+          width="32"
+        >
+          <path
+            d="m13.758 282.183 3.175-10.583h4.234l3.175 10.583h-3.175l-2.117-6.35-2.117 6.35z"
+            style="
+              opacity: 1;
+              fill: #fff;
+              fill-opacity: 1;
+              stroke: none;
+              stroke-width: 0.26458332;
+              stroke-linecap: round;
+              stroke-miterlimit: 4;
+              stroke-dasharray: none;
+              stroke-dashoffset: 0;
+              stroke-opacity: 1;
+            "
+            transform="matrix(.72727 0 0 .72727 -9.236 -197.108)"
+          />
+          <path
+            d="m12.7 273.717 6.35 2.116-2.117 6.35-.529-4.762-3.704-3.704"
+            style="
+              opacity: 1;
+              fill: #9ca3af;
+              fill-opacity: 1;
+              stroke: none;
+              stroke-width: 0.26458332;
+              stroke-linecap: round;
+              stroke-miterlimit: 4;
+              stroke-dasharray: none;
+              stroke-dashoffset: 0;
+              stroke-opacity: 1;
+            "
+            transform="matrix(.72727 0 0 .72727 -9.236 -197.108)"
+          />
+        </svg>
