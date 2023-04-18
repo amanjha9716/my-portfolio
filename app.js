@@ -98,7 +98,7 @@ document.querySelector("form").addEventListener("submit",(e)=>{
     
     Best regards,
     Abhishek jha`);
-    e.preventDefault();
+//     e.preventDefault();
     
   });
  
